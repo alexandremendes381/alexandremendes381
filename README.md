@@ -15,13 +15,9 @@
 
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![pycharm](https://img.shields.io/badge/-pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-![windows](https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoftoficce](https://img.shields.io/badge/-microsoftoficce-0D1117?style=for-the-badge&logo=microsoftoficce&labelColor=0D1117)&nbsp;
 ![api](https://img.shields.io/badge/-api-0D1117?style=for-the-badge&logo=api&labelColor=0D1117)&nbsp;
-![bancodedados](https://img.shields.io/badge/-bancodedados-0D1117?style=for-the-badge&logo=bancodedados&labelColor=0D1117)&nbsp;
+
 
   
 <div align="center">
