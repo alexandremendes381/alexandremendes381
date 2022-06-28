@@ -19,9 +19,7 @@
 ![api](https://img.shields.io/badge/-api-0D1117?style=for-the-badge&logo=api&labelColor=0D1117)&nbsp;
 
 
-  ![Snake animation](https://github.com/alexandremendes381/alexandremendes381/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 <div align="center">
 
