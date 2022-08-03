@@ -10,8 +10,9 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=alexandremendes381&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandremendes381=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexandremendes381&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
 
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
