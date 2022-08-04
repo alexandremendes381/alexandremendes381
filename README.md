@@ -9,6 +9,10 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=alexandremendes381&theme=gotham&hide_border=true&area=true)
 
+<div align="center">  
+<a href="https://www.linkedin.com/in/alexandre-mendes-8b8473240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alexandremendes381&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
