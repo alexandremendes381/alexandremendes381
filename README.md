@@ -9,8 +9,14 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=alexandremendes381&theme=gotham&hide_border=true&area=true)
 
+![snake_1f40d](https://user-images.githubusercontent.com/107935113/183122784-1917a474-0592-4e94-9d7f-13d8c15c6cd9.png)![snake_1f40d](https://user-images.githubusercontent.com/107935113/183125200-6992fbfc-a4e9-4d42-9575-d49284616167.png)![snake_1f40d](https://user-images.githubusercontent.com/107935113/183125428-5ad117d8-de6b-4f55-9369-0bad3d2b5e9a.png)![snake_1f40d](https://user-images.githubusercontent.com/107935113/183125673-8b12ae05-4d49-46eb-b132-0456292ff04e.png)![snake_1f40d](https://user-images.githubusercontent.com/107935113/183126015-f4b79990-a09a-4b83-a7cf-2065e18e878a.png)
+
 <div align="center">  
-<a href="https://www.linkedin.com/in/alexandre-mendes-8b8473240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://wiki.python.org.br/TheZenOfPython" target="_blank"><img src="https://img.shields.io/badge/-ZEN OF PYTHON-%23E4405F?style=for-the-badge&logo=WEBSITE&logoColor=white"</a>
+</div>
+
+<div align="center">  
+<a href="https://www.linkedin.com/in/alexandre-mendes-8b8473240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=WEBSITES&logoColor=white"</a>
 </div>
 
 <p align="center">
