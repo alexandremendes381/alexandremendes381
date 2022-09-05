@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text= Alexandre da Silva Mendes &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alexandre+da+Silva+Mendes;I'm+24+years+old;I+from+Brasilia,+DF;I+study+systems+development+at+python;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -23,6 +23,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alexandremendes381&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+### My courses: 
+![200px-Seal_of_the_University_of_Michigan svg](https://user-images.githubusercontent.com/107935113/188342522-51235e78-d279-4917-965a-c4572cd0fbe0.png)![download](https://user-images.githubusercontent.com/107935113/188342628-9b35fc6f-bfff-4c03-9e3a-c70f9172717c.png)
+
+
+Courses at the university of michigan 
+1 = Using Python to Access Web Data 
+2 = Python Functions, Files, and Dictionaries
+3 = Python Data Structures 
+4 = Python Classes and Inheritance
+5 = Python Basics
+6 = Programming for Everybody (Getting Started with Python)
+7 = Data Collection and Processing with Python
+
+Courses at the IBM 
+1 = Exploratory Data Analysis for Machine Learning
+2 = Supervised Machine Learning Regression
+  
+  
 
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
