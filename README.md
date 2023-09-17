@@ -53,7 +53,8 @@ Courses at the Fundaçao Bradesco
 ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![api](https://img.shields.io/badge/-api-0D1117?style=for-the-badge&logo=api&labelColor=0D1117)&nbsp;
 ![django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=api&labelColor=0D1117)&nbsp;
-![react](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=api&labelColor=0D1117)&nbsp;
+![reactJs](https://img.shields.io/badge/-reactJs-0D1117?style=for-the-badge&logo=reactJs&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
